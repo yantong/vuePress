@@ -11,7 +11,8 @@
     "build": "vuepress build docs"
   },
   "devDependencies": {
-    "vuepress": "^1.9.7"
+    "vuepress": "^1.9.7",
+    "vuepress-plugin-cursor-effects": "^1.1.2"
   },
   "dependencies": {
     "vuepress-theme-reco": "^1.6.11"

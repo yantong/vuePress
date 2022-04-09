@@ -14,9 +14,3 @@ tagline: 落花时节又逢君
 actionText: null
 bgImage: "/bg.jpg"
 ---
-
-<style>
-    .footer-wrapper.footer {
-        display: none
-    }
-</style>

@@ -13,6 +13,7 @@ module.exports = {
     type: "blog",
     authorAvatar: "/leaf.png",
     noFoundPageByTencent: false,
+    subSidebar: "auto",
   },
   plugins: [
     [
@@ -24,6 +25,9 @@ module.exports = {
       },
     ],
   ],
+  markdown: {
+    lineNumbers: true,
+  },
   locales: {
     "/": {
       lang: "zh-CN",

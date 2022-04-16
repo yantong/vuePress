@@ -1,6 +1,7 @@
 ---
 title: 链表的游标实现
 date: 2022-04-15
+permalink: /cursor-list
 categories:
   - 算法
 tags:

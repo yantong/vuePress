@@ -3,9 +3,9 @@ title: 排列组合算法
 date: 2022-08-09
 permalink: /arrangement-combination
 categories:
-  - 前端
+  - 算法
 tags:
-  - 前端
+  - 算法
 ---
 
 ## 排列

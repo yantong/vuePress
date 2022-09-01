@@ -27,7 +27,7 @@ Promise抛出错误如果不进行catch会造成内存泄漏
     }).catch(e => {})
 ```
 
-![捕获错误](/proise_catch.png)
+![捕获错误](/leaf/proise_catch.png)
 
 ```js
     // 不捕获错误
@@ -42,4 +42,4 @@ Promise抛出错误如果不进行catch会造成内存泄漏
     })
 ```
 
-![不捕获错误](/promise_nocatch.png)
+![不捕获错误](/leaf/promise_nocatch.png)
